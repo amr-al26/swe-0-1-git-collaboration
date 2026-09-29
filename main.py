@@ -11,3 +11,4 @@ print("\nSecond week of Marcy and I already love it!")
 print(
     "\nThird week and I can already feel the intensity start to raise but it only makes me more determined to learn"
 )
+print ("With the skills I'm learning at Marcy, i'll be a talented engineer in no time!")
