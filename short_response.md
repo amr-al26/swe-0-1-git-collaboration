@@ -1,0 +1,5 @@
+short_response.md
+A git commit is a record or snapshot of changes that was made. It represents a specific point in the project's history. Git gives every commit something called an "identifier" so that people can distinguish it from other commits. 
+You create one by doing the commands "git add -A", and "git commit -m" (means your message). It creates the commit with the description. The "git add -A" takes the changed files and put the changes in a staging area. Git commit create an actual commit from the changes. -m lets you put a message in the command.
+Commits are useful because they create a history of work so someone can understand changes and return to a prior version if something happens to go wrong. Someone can also look at the commits from before to understand how the project changed.
+Clear Commits matter because the partners may not know what was changed. A good message gives them context without them to check every file and clear messages make the history easier to read. A message that describes the actual change is more useful.
